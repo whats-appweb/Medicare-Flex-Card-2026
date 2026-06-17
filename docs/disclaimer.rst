@@ -1,8 +1,6 @@
 Disclaimer
 ==========
 
-# Disclaimer
-
 The information provided on **Medicare Flex Card 2026** is for general informational and educational purposes only. While we strive to keep the information accurate and up to date, we make no guarantees regarding the completeness, reliability, or accuracy of any information published on this website.
 
 ## No Government Affiliation
