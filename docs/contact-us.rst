@@ -1,6 +1,5 @@
 Contact Us
 ==========
-# Contact Us
 
 Thank you for visiting **Medicare Flex Card 2026**.
 
