@@ -1,4 +1,0 @@
-Privacy Policy
-==============
-
-Content page.
