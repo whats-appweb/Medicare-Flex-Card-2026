@@ -35,7 +35,7 @@ Google's use of advertising cookies enables it and its partners to serve persona
 
 Users may opt out of personalized advertising by visiting:
 
-https://www.google.com/settings/ads
+https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fmedicare-flex-card-2026-eligibility-benefits-and-how-it-works%2F&sa=D&sntz=1&usg=AOvVaw1tnxMT54lzPVPlYrlppK6x
 
 ## Third-Party Links
 
