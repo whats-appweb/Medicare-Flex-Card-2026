@@ -1,4 +1,0 @@
-Disclaimer
-==========
-
-Content page.
