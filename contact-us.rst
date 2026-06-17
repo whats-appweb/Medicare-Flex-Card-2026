@@ -1,4 +1,0 @@
-Contact Us
-==========
-
-Content page.
