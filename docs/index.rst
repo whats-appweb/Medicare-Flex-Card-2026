@@ -3,11 +3,21 @@ Medicare Flex Card 2026: Eligibility, Benefits, Amount & Complete Guide
 
 .. raw:: html
 
-   <div style="margin:20px 0;">
-      <a href="https://bcetsamba.in/medicare-flex-card-2026-eligibility-benefits-and-how-it-works/" target="_blank">
-         <button style="background:#0077cc;color:white;padding:14px 30px;border:none;border-radius:8px;cursor:pointer;">
-            Medicare Flex Card 2026
-         </button>
+   <div style="text-align:center; margin:30px 0;">
+      <a href="https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fmedicare-flex-card-2026-eligibility-benefits-and-how-it-works%2F&sa=D&sntz=1&usg=AOvVaw1tnxMT54lzPVPlYrlppK6x" target="_blank"
+      style="
+      display:inline-block;
+      background:linear-gradient(135deg,#0057b8,#0077cc);
+      color:white;
+      padding:18px 45px;
+      font-size:28px;
+      font-weight:bold;
+      text-decoration:none;
+      border-radius:50px;
+      box-shadow:0 8px 20px rgba(0,0,0,.25);
+      border:3px solid #ffffff;
+      ">
+      Medicare Flex Card 2026
       </a>
    </div>
 
